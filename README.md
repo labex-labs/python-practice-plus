@@ -12,8 +12,8 @@ In this course, You will practice more labs of Python. This will help you to mas
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Print Date in Required Format                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108527'>Start Challenge</a> |
 |     002 | 🎯 User Preference: Car or Bike                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108250'>Start Challenge</a> |
 |     003 | 🎯 Manipulating Python Lists Fundamentals                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/64'>Start Challenge</a>     |
