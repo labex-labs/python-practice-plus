@@ -12,7 +12,7 @@ In this course, You will practice more labs of Python. This will help you to mas
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Print Date in Required Format                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108527'>Start Challenge</a> |
 |     002 | 🎯 User Preference: Car or Bike                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108250'>Start Challenge</a> |
@@ -952,4 +952,9 @@ In this course, You will practice more labs of Python. This will help you to mas
 |     936 | 🎯 Symmetric Difference Based on Function                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13193'>Start Challenge</a>  |
 |     937 | 📖 List Difference Based on Function                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13621'>Start Lab</a>        |
 |     938 | 📖 Count Grouped Elements                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13608'>Start Lab</a>        |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
