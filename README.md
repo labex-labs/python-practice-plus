@@ -955,6 +955,7 @@ In this course, You will practice more labs of Python. This will help you to mas
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
